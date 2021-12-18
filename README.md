@@ -1,7 +1,7 @@
 # Spitaki Application
 Search for rental houses or post your own. The application name is "Spitaki" and it will be soon available for Android OS and iOS.
 
-Members of this project: Ioannis Kyriazis, Panagiotis Papadopoulos, Apostolos Mamoulellis
+Members of this project: Ioannis Kyriazis, Panagiotis Papadopoulos
 
 Language: Greek (Ελληνικά)
 
