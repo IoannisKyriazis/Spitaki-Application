@@ -5,4 +5,4 @@ Members of this project: Ioannis Kyriazis, Panagiotis Papadopoulos
 
 Language: Greek (Ελληνικά)
 
-Copyright © 2021 Ioannis Kyriazis, Panagiotis Papadopoulos - All Rights Reserved
+Copyright © 2021 Ioannis Kyriazis, Panagiotis Papadopoulos, Apostolos Mamoulellis - All Rights Reserved
